@@ -1,4 +1,4 @@
-# 💯 100 Days of SQL Challenge
+# 100 Days of SQL Challenge
 
 Welcome to my SQL practice repository.
 

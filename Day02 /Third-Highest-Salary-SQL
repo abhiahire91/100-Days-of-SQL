@@ -1,2 +1,7 @@
-select max(salary) 
-from doctor
+SELECT *
+FROM (
+    SELECT *,
+           DENSE_RANK() OVER (ORDER BY salary DESC) AS rnk
+    FROM employees
+) t
+WHERE rnk = 3;

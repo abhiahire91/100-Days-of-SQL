@@ -6,7 +6,7 @@ Welcome to my SQL practice repository.
 
 - ✅ Day 01 - Second Highest Salary
 - ⬜ Day 02 - Third Highest Salary
-- ⬜ Day 03 - Department Average Salary
+- ⬜ Day 03 - window function
 
 ## 📂 Topics Covered
 

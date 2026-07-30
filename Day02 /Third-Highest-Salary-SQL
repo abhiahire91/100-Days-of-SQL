@@ -1,10 +1,2 @@
-SELECT MAX(salary)
-FROM employees
-WHERE salary < (
-SELECT MAX(salary)
-FROM employees
-WHERE salary < (
-SELECT MAX(salary)
-FROM employees
-)
-);
+select max(salary) 
+from doctor

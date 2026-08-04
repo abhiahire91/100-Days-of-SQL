@@ -1,4 +1,4 @@
-select * from
-actor a
+select * 
+from actor a
 left join doctor d
-on a.actor_id = d.doctor_id;
+ON a.actor_id = d.doctor_id;
